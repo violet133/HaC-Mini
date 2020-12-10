@@ -484,6 +484,8 @@
 		<dict>
 			<key>HibernateMode</key>
 			<string>Auto</string>
+			<key>PickerAttributes</key>
+			<integer>16</integer>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerAttributes</key>
